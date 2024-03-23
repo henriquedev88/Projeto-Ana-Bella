@@ -1,0 +1,66 @@
+body{
+    background-image: url(fundo.png);
+}
+#capa {
+    width: 900px;
+    height: 388px;
+    background-image: url(capa.png);
+}
+#navbar{
+    display: flex;
+    height: 100px;
+    width: 900px;
+    background-color: rgb(202, 202, 160);
+    align-items: center;
+    
+}
+.menu-item{
+    margin-right: 20px;
+    margin-left: 10px;
+    text-decoration: none;
+    color: rgb(31, 31, 117);
+}
+#sobre{
+    background-color: antiquewhite;
+    width: 900px;
+    height: 240px;
+    margin-top: -20px;
+    
+}
+.tituloana{
+    color: rgb(141, 137, 78);
+    margin-left: 10px;
+    padding-top: 20px;
+    
+}
+p{
+    margin-left: 10px;
+}
+#footer{
+    position: relative;
+    text-align: center;
+    width: 900px;
+}
+#biografia{
+    width: 900px;
+    height: 300px;
+    background-color: antiquewhite;
+    margin-top: -20px;
+}
+#camp{
+    height: 1680px;
+    width: 900px;
+    background-color: antiquewhite;
+    margin-top: -20px;
+}
+img{
+    border: 10px solid #d7d8a9;
+    margin-left: 10px;
+}
+#contato{
+    width: 900px;
+    background-color: antiquewhite;
+    margin-top: -20px;
+    height: 650px;
+
+}
